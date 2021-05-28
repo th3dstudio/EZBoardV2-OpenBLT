@@ -7,4 +7,4 @@
 #define SPI_SPEED                           2
 
 #define FIRMWARE_FILENAME                   "firmware.bin"
-#define FIRMWARE_FILENAME_RENAME            "firmware.cur"
+#define FIRMWARE_FILENAME_RENAME            "FIRMWARE.CUR"
